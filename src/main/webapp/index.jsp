@@ -3,7 +3,7 @@
 <html>
 <head>
 <meta charset="UTF-8">
-<title> Welcome  to Microdegree   </title>
+<title> Welcome  to Microdegree class   </title>
 <style>
   body {
     background-color: green;
