@@ -11,8 +11,8 @@
 </style>
 </head>
 <body>
-<h1>Welcome  to devops </h1>
-<p>Welcome  to devops.</p>
+<h1>Welcome  to Microdegree </h1>
+<p>Welcome  to Microdegree.</p>
 </body>
 </html>
 
